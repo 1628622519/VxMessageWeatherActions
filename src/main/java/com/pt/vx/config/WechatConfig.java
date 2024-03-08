@@ -43,10 +43,10 @@ public class WechatConfig {
                 "宝宝", //咋称呼这个人
                 "浙江省温州市瓯海区", //这个人的详细地址
                 "温州", //这个人在的城市
-                new BirthDay(2003,10,1,true,false,"宝宝生日快乐！！"),
-                new BirthDay(2003,10,1,false,false,"生日快乐哦~~"),
-                new BirthDay(2023,3,31,true,true),
-                new BirthDay(2023,3,31,true,false,"周年快乐！！！")
+                new BirthDay(2003,10,1,false,false,"宝宝生日快乐！！"),
+                new BirthDay(2004,1,5,true,false,"生日快乐哦~~"),
+                new BirthDay(2023,3,31,false,true),
+                new BirthDay(2023,3,31,false,false,"周年快乐！！！")
         ));
 
         userList.add(getUser(
